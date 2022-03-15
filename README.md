@@ -1,2 +1,6 @@
 # Stock-Market-Prediction-And-Impulse-Analysis
-Stock Market Prediction And Impulse Analysis
+• UsedARIMAandMultivariateLSTMmodelstopredictthepricesof
+stocksbasedontheirpreviousprices,interestrate,exchangerate,etc.
+• Studiedtheirtrendsandcyclicnatureandalsotheinter-dependencyof
+pricesofvariousstocksusingVAR(VectorAutoRegression)and
+impulseanalysis.
